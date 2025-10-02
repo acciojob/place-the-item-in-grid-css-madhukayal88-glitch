@@ -1,7 +1,0 @@
-.holder {
-	display: grid;
-	width: 200px;
-	height: 200px;
-	grid-template-columns: repeat(2);
-	grid-template-row: repeat(2,1f);						 )
-}
